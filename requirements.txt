@@ -1,0 +1,7 @@
+pandas==1.5.3          # Data manipulation
+numpy==1.24.2          # Numerical operations
+matplotlib==3.7.1      # Data visualization
+seaborn==0.12.2        # Advanced visualizations
+scikit-learn==1.2.2    # Model building
+openpyxl==3.1.2        # Excel file handling
+pytest==7.3.0          # Unit testing
